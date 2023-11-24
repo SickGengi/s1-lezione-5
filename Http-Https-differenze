@@ -1,0 +1,5 @@
+La principale differenza tra protocolli HTTP e HTTPS è che con il protocollo HTTPS i dati sono criptati
+quindi il loro traffico è sicuro, ovviamente a causa di questa aggiunta il caricamento della
+pagina richiede più tempo.
+Nel protocollo HTTP i dati non sono crittografati, questo vuol dire che possono essere intercettati
+come si può vedere dagli screen.
